@@ -2,7 +2,7 @@
 <input id="num1"/>
  <p>+</p>
  <input id="num2"/>
- <button onclick="func()">равняется...</button>
+ <button onclick="func()">дорівнює...</button>
 
  <p id="result"></p>
 
